@@ -43,3 +43,9 @@ To stop the container, run:
 ```
 docker stop mysite
 ```
+
+To start the container again, run:
+
+```
+docker start mysite
+```
