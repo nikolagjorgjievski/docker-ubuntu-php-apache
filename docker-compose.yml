@@ -1,0 +1,11 @@
+version: '3'
+services:
+  ubuntu:
+    container_name: mysite
+    build: ./
+    working_dir: /var/www/site
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/site
+    network_mode: "bridge"
