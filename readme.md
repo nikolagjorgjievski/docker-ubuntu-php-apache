@@ -1,4 +1,4 @@
-#Docker: Ubuntu 16.04 PHP 7.2 Apache2
+# Docker: Ubuntu 16.04 PHP 7.2 Apache2
 
 This project has a docker development environment ready which you can easily set up the project on your local machine by installing [Docker Community Edition](https://docs.docker.com/engine/installation/) and [Docker Compose](https://docs.docker.com/compose/install/) for the operating system you are using.
 
